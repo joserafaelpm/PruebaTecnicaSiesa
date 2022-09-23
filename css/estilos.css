@@ -1,0 +1,94 @@
+.input{
+  border-radius: 40px;
+  border-color: blue;
+  text-align: center;
+}
+#titulo1{
+  color: gray;
+}
+#valor1{
+  width: 60%;
+  color: blue;
+}
+#valor2{
+  width: 60%;
+  color: blue;
+}
+.calculadora{
+  background-color: lightgray;
+}
+.general{
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+}
+
+#operador{
+  padding-left: 5%;
+  border-radius: 40px;
+  border-color: red;
+  width: 60%;
+  color: red;
+  text-align: lefts;
+}
+
+.span{
+  font-style: italic;
+  color: gray;
+}
+.operadores{
+  padding-top: 5%;
+}
+.radio{
+  padding-left: 3%;
+}
+.circulo{
+  height: 100%;
+  width: 13%;
+}
+.boton{
+  border-color: blue;
+  margin: 4%;
+  width: 100%;
+}
+
+.resultadoArea{
+  border-radius: 10px;
+  border-color: gray;
+  text-align: center;
+  border-style: dashed;
+  margin: 1%;
+  text-align: left;
+  height: 70px;
+}
+
+.historial{
+  padding-top: 5%;
+}
+.titulo{
+  font-size: 30px;
+  color: rgb(102, 93, 77);
+  padding-left: 3%;
+}
+.icono{
+  font-size: 30px;
+}
+
+.input-buscar{
+  border-radius: 40px;
+  border-color: blue;
+  text-align: left;
+  width: 100%;
+  color: blue;
+}
+
+.lista{
+  padding-left: 5%;
+}
+
+.col-sm-3 .btn-link{
+  color: red;
+}
+.col-sm-3 .btn-link:hover{
+  color: red;
+  font-weight: bold;
+}
